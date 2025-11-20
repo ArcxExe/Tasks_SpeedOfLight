@@ -1,15 +1,15 @@
-# Ссылки на документы
+# Репозиторий входных заданий нового потока команды SpeedOfLight
 
-## Список документов
+## Ссылки и краткое описание задач для нового потока
 
-1.  **[Backend DEV](https://example.com/public-docs.pdf)**  
+1.  **[Backend DEV](/1_Задание_Backed.ipynb)**  
+    Разработка минимально консольного решения по всем принципам ООП и SOLID.
+
+2.  **[Frontend DEV](/2_Задание_Backend.ipynb)**  
     Краткое описание.
 
-2.  **[Frontend DEV](https://example.com/public-docs.pdf)**  
+3.  **[DevOPS](/3_Задание_Backend.ipynb)**  
     Краткое описание.
 
-3.  **[DevOPS](./templates/report-template.docx)**  
-    Краткое описание.
-
-4.  **[Чистый дизайн](https://github.com/username/project/blob/main/CHANGELOG.md)**  
+4.  **[Чистый дизайн](/4_Задание_Backend.ipynb)**  
     Краткое описание.
