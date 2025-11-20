@@ -5,7 +5,7 @@
 1.  **[Backend DEV](/1_Задание_Backed.ipynb)**  
     Разработка минимально консольного решения по всем принципам ООП и SOLID.
 
-2.  **[Frontend DEV](/2_Задание_Backend.ipynb)**  
+2.  **[Frontend DEV](/2_Задание_Frontend.ipynb)**  
     Разработать одностраничное приложение для управления задачами с использованием чистого JavaScript, HTML и CSS.
 
 3.  **[DevOPS](/3_Задание_Backend.ipynb)**  
