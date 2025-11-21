@@ -40,7 +40,7 @@
 
 1. Создать Dockerfile для каждого сервиса
 2. Настроить docker-compose.yml для оркестрации
-3. Развернуть на VPS с Ubuntu
+3. Развернуть на VPS с Ubuntu (можем дать)
 4. Настроить автоматический деплой через GitHub Actions
 5. Обеспечить health-check эндпоинты
 6. Протестировать работоспособность
@@ -488,6 +488,7 @@ http://your-server-ip/api/users
 - [Коротко про Докер](https://habr.com/ru/companies/slurm/articles/515508/)
 - [Докер (нужен будет VPN)](https://www.docker.com/)
 - [Гитхаб и базовые команды)](https://github.com/Faso-main/README/blob/main/GitHub_bash.md)
+- [Сыылка на диск с файлами для последнего задания)](https://drive.google.com/drive/folders/1MRLk57Df6NBK_ujR5jijt0De2wkliW_H?usp=sharing)
 
 
 ## Вопросы
